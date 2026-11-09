@@ -1,0 +1,3 @@
+# python/visuals
+
+Generated PNGs.
